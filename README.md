@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 I'm a software engineer with a background in **property accounting**. Where are my non-traditinal programmers at!? Before becoming a programmer, I worked in real estate, property management accounting space. I enjoyed making templates to automate my monthly recurring tasks which initially was the reason brought me to Python and now I want to learn more so that I can create even better, cooler stuff. 
 - 🔭 I’m currently working on my bootcamp capstone project which is a.. drumroll.. suspense... real estate investment tool called **Catculator**😺! (surprise surprise 😉)
-- 🌱 I’m currently learning **Python Flask, JavaScript and Java**
+- 🌱 I’m currently learning **Python Flask, Java and Algorithms**
 - 📫 How to reach me: Here is my [LinkedIn ](https://www.linkedin.com/in/oliviatran99/)profile, let's connect!
 - ⚡ Fun fact: I **love learning languages** either it's a programming language or just a natural language you name it. This is a [Youtube Video](https://www.youtube.com/watch?v=Dp5WJFkNYEU) of me trying to speak a few of those languages (thinking of making videos speaking in Python soon 😄)
 
