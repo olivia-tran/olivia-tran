@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 I'm a software engineer with a background in **property accounting**. Where are my non-traditinal programmers at!? Before becoming a programmer, I worked in real estate, property management accounting space. I enjoyed making templates to automate my monthly recurring tasks which initially was the reason brought me to Python and now I want to learn more so that I can create even better, cooler stuff. 
 - 🔭 I’m currently working on my bootcamp capstone project which is a.. drumroll.. suspense... real estate investment tool called **Catculator**😺! (surprise surprise 😉)
 - 🌱 I’m currently learning **Python Flask, JavaScript and Java**
