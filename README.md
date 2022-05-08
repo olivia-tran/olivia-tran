@@ -22,4 +22,4 @@ I'm a software engineer with a background in **property accounting**. Before bec
 - 📫 How to reach me: Here is my [LinkedIn ](https://www.linkedin.com/in/oliviatran99/)profile, let's connect!
 - ⚡ Fun fact: I **love learning languages** either it's a programming language or just a natural language you name it. This is a [Youtube Video](https://www.youtube.com/watch?v=Dp5WJFkNYEU) of me trying to speak a few of those languages (thinking of making videos speaking in Python soon 😄)
 
-<img src="https://wakatime.com/share/@olivia_tran/76ef2092-091a-4a25-8aa8-06279ffff0c2.svg" alt="debugging-galore" width="200"/>
+<img src="https://wakatime.com/share/@olivia_tran/e29df29a-9e7f-403a-b8b3-5052d514177f.png" alt="debugging-galore" width="400"/>
