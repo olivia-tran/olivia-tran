@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<figure><embed src="https://wakatime.com/share/@olivia_tran/76ef2092-091a-4a25-8aa8-06279ffff0c2.svg"></embed></figure>
+
 
 I'm a software engineer with a background in **property accounting**. Before becoming a programmer, I worked in real estate, property management accounting space. I enjoyed making templates to automate my monthly recurring tasks which initially was the reason brought me to Python and now I want to learn more so that I can create even better things. 
 - 🔭 I’m currently working on my bootcamp capstone project which is a real estate investment analysis tool called **INVESTABLE**!
@@ -22,3 +22,4 @@ I'm a software engineer with a background in **property accounting**. Before bec
 - 📫 How to reach me: Here is my [LinkedIn ](https://www.linkedin.com/in/oliviatran99/)profile, let's connect!
 - ⚡ Fun fact: I **love learning languages** either it's a programming language or just a natural language you name it. This is a [Youtube Video](https://www.youtube.com/watch?v=Dp5WJFkNYEU) of me trying to speak a few of those languages (thinking of making videos speaking in Python soon 😄)
 
+<img src="https://wakatime.com/share/@olivia_tran/76ef2092-091a-4a25-8aa8-06279ffff0c2.svg" alt="debugging-galore" width="200"/>
