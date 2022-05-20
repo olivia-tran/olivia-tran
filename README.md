@@ -21,6 +21,6 @@ I'm a software engineer with a background in **property accounting**. Before bec
 - 🌱 I’m currently learning **Python Flask, Java, Data Structures & Algorithms**
 - 📫 How to reach me: Here is my [LinkedIn ](https://www.linkedin.com/in/oliviatran99/)profile, let's connect!
 - ⚡ Fun fact: I **love learning languages** either it's a programming language or just a natural language you name it. This is a [Youtube Video](https://www.youtube.com/watch?v=Dp5WJFkNYEU) of me trying to speak a few of those languages (thinking of making videos speaking in Python soon 😄)
-- 📚 Hobbies: outside of work, I truly enjoy real estate investing, reading books on self-development and investment.
+- 📚 Hobbies: outside of work, I truly enjoy real estate investing, reading and aerial hoops.
 
 <img src="https://wakatime.com/share/@olivia_tran/e29df29a-9e7f-403a-b8b3-5052d514177f.png" alt="debugging-galore" width="400"/>
