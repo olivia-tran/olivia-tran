@@ -27,6 +27,6 @@ I'm a software engineer with a background in **property accounting**. Before bec
 Wakatime Week's Stats:
 <br>
 
-   [![Olivia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olivia_tran&layout=compact)](https://github.com/olivia-tran/github-readme-stats)
+  [![Olivia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olivia_tran&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/olivia-tran/github-readme-stats)
 
 
