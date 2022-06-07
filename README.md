@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 I'm a software engineer with a background in **property accounting**. Before becoming a programmer, I worked in real estate, property management accounting space for many years. I enjoyed making templates to automate my monthly recurring tasks which initially was the reason brought me to Python and now I want to learn more so that I can create even better things. 
-- 🔭 I’m currently working on my bootcamp capstone project which is a real estate investment driven platform called [**INVESTABLE** ](https://github.com/olivia-tran/investable-rental-property-investor-tool)!
+- 🔭 I’m currently working on my bootcamp capstone project which is a research tool, a platform for real estate investors called [**INVESTABLE** ](https://github.com/olivia-tran/investable-rental-property-investor-tool)!
 - 🌱 I’m currently learning **Python Flask, Java, Data Structures & Algorithms**
 - 📫 How to reach me: Here is my [LinkedIn ](https://www.linkedin.com/in/oliviatran99/)profile, let's connect!
 - ⚡ Fun fact: I **love learning languages** either it's a programming language or just a natural language you name it. This is a [Youtube Video](https://www.youtube.com/watch?v=Dp5WJFkNYEU) of me trying to speak a few of those languages (thinking of making videos speaking in Python soon 😄)
