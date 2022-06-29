@@ -27,7 +27,7 @@ I'm a software engineer with a background in **property accounting**. Before bec
 <br>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olivia-tran&show_icons=true&theme=tokyonight" alt="olivia" /></p>
+
 
 Wakatime Week's Stats:
 
