@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a software engineer with a background in **property accounting**. Before becoming a programmer, I worked in real estate, property management accounting space for almost ten years. I enjoyed making templates to automate my monthly recurring tasks which initially was the reason brought me to Python and now I want to learn more so that I can create even better things. 
+I'm a software engineer with a background in **property accounting** and **journalism.** Before becoming a programmer, I worked in real estate, property management accounting space for almost ten years. I enjoyed making templates to automate my monthly recurring tasks which initially was the reason brought me to Python and now I want to learn more so that I can create even better things. 
 - 🔭 Super proud of my fullstack web app project. [**INVESTABLE** ](https://github.com/olivia-tran/investable-rental-property-investor-tool) is a research tool, a platform for real estate investors, which combined both of my passion: coding and real estate investing.
 - 🌱 I’m currently working on **Kotlin, Solidity, Java, Data Structures & Algorithms**
 - 📫 How to reach me: Here is my [LinkedIn ](https://www.linkedin.com/in/oliviatran99/)profile, let's connect!
