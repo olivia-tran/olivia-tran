@@ -26,7 +26,7 @@ I'm a software engineer with a background in **property accounting** and **journ
 <br>
 
 <br>
-Wakatime Week's Stats:
+Wakatime's Stats:
 
 [![Olivia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olivia_tran&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/olivia-tran/github-readme-stats)
 
