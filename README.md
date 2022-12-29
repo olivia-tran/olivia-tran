@@ -21,7 +21,7 @@ I'm a software engineer with a background in **property accounting** and **journ
 - 🌱 I’m currently working on **Kotlin, Solidity, C#, Java, Data Structures & Algorithms**
 <!-- - 📫 How to reach me: Here is my [LinkedIn ](https://www.linkedin.com/in/oliviatran99/)profile, let's connect! -->
 - ⚡ Fun fact: I **love learning languages** either it's a programming language or just a natural language you name it. This is a [Youtube Video](https://www.youtube.com/watch?v=Dp5WJFkNYEU) of me trying to speak a few of those languages
-- 📚 Hobbies: outside of work, I truly enjoy real estate investing, self-development, mentoring, traveling, rock climbing, pole and aerial hoops.
+- 📚 Hobbies: outside of work, I enjoy real estate investing, self-development, mentoring, traveling, rock climbing, pole and aerial hoops.
 
 <br>
 
