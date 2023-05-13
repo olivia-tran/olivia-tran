@@ -28,7 +28,7 @@ I'm a software engineer with a background in **property accounting** and **journ
 <br>
 Wakatime's Stats:
 
-[![Olivia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olivia_tran&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/olivia-tran/github-readme-stats)
+[![Olivia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olivia_tran&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/olivia-tran/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
