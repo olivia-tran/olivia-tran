@@ -27,11 +27,16 @@ I'm a software engineer with a background in **property accounting** and **journ
 
 <br>
 Wakatime's Stats:
+<p align="left">
+<img src="https://wakatime.com/badge/user/40efc3b0-1833-4eae-b4f1-a9316db91e97.svg" />
+</p>
 
 [![Olivia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olivia_tran&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://github.com/olivia-tran/github-readme-stats)
+
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/olivia-tran/count.svg" />
 </p>
+
 
